@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'KGShakeitOffPopped';
+   font-display: swap;
+   src: url('KGShakeitOffPopped/font.ttf');
+}
+@font-face {
+   font-family: 'HappyMonkey-Regular';
+   font-display: swap;
+   src: url('HappyMonkey-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'KGShakeitOffChunky';
+   font-display: swap;
+   src: url('KGShakeitOffChunky/font.ttf');
+}
